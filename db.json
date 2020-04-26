@@ -1,0 +1,364 @@
+  {
+    "products": [
+      {
+        "id": 1,
+        "name": "Oppo A9",
+        "description": "Tặng 2 suất mua Đồng hồ thời trang giảm 40% (không áp dụng thêm khuyến mãi khác) ",
+        "old_price": 300,
+        "price": 250,
+        "img": "https://cdn.tgdd.vn/Products/Images/42/202028/oppo-a9-600x600-trang-400x400.jpg",
+        "type": "phone",
+        "quanlity": 93
+      },
+      {
+        "id": 2,
+        "name": "Iphone 11 Pro Max",
+        "description": "Tặng 2 suất mua Đồng hồ thời trang giảm 40% (không áp dụng thêm khuyến mãi khác) ",
+        "old_price": 1000,
+        "price": 999,
+        "img": "https://cdn.tgdd.vn/Products/Images/42/200533/iphone-11-pro-max-green-400x400.jpg",
+        "type": "phone",
+        "quanlity": 39
+      },
+      {
+        "id": 3,
+        "name": "Xiaomi Note 8",
+        "description": "Tặng 2 suất mua Đồng hồ thời trang giảm 40% (không áp dụng thêm khuyến mãi khác) ",
+        "old_price": 250,
+        "price": 200,
+        "img": "https://cdn.tgdd.vn/Products/Images/42/209535/xiaomi-redmi-note-8-white-400x400.jpg",
+        "type": "phone",
+        "quanlity": 84
+      },
+      {
+        "id": 4,
+        "name": "Iphone 8 Plus 64GB",
+        "description": "Tặng 2 suất mua Đồng hồ thời trang giảm 40% (không áp dụng thêm khuyến mãi khác)",
+        "old_price": 300,
+        "price": 300,
+        "img": "https://cdn.tgdd.vn/Products/Images/42/114110/iphone-8-plus-hh-600x600-400x400.jpg",
+        "type": "phone",
+        "quanlity": 3
+      },
+      {
+        "id": 5,
+        "name": "Realme 6(4GB/128GB)",
+        "description": "Tặng 2 suất mua Đồng hồ thời trang giảm 40% (không áp dụng thêm khuyến mãi khác)",
+        "old_price": 280,
+        "price": 260,
+        "img": "https://cdn.tgdd.vn/Products/Images/42/214644/realme-6-xanh-600x600-400x400.jpg",
+        "type": "phone",
+        "quanlity": 31
+      },
+      {
+        "id": 6,
+        "name": "Iphone 11 64GB",
+        "description": "Tặng 2 suất mua Đồng hồ thời trang giảm 40% (không áp dụng thêm khuyến mãi khác)",
+        "old_price": 800,
+        "price": 799,
+        "img": "https://cdn.tgdd.vn/Products/Images/42/153856/iphone-11-red-400x400.jpg",
+        "type": "phone",
+        "quanlity": 12
+      },
+      {
+        "id": 7,
+        "name": "Samsung Galaxy A50s",
+        "description": "Tặng 2 suất mua Đồng hồ thời trang giảm 40% (không áp dụng thêm khuyến mãi khác)",
+        "old_price": 350,
+        "price": 300,
+        "img": "https://cdn.tgdd.vn/Products/Images/42/207641/samsung-galaxy-a50s-green-400x400.jpg",
+        "type": "phone",
+        "quanlity": 39
+      },
+      {
+        "id": 8,
+        "name": "Vsmart Joy 3 (3GB/32GB)",
+        "description": "",
+        "old_price": 200,
+        "price": 150,
+        "img": "https://cdn.tgdd.vn/Products/Images/42/217920/vsmart-joy-3-tim-600x600-400x400.jpg",
+        "type": "phone",
+        "quanlity": 36
+      },
+      {
+        "id": 9,
+        "name": "Samsung Galaxy A71",
+        "description": "",
+        "old_price": 400,
+        "price": 380,
+        "img": "https://cdn.tgdd.vn/Products/Images/42/210246/samsung-galaxy-a71-blue-600x600-1-400x400.jpg",
+        "type": "phone",
+        "quanlity": 4
+      },
+      {
+        "id": 10,
+        "name": "Realme C3i",
+        "description": "",
+        "old_price": 150,
+        "price": 100,
+        "img": "https://cdn.tgdd.vn/Products/Images/42/220170/realme-c3i-blue-600x600-400x400.jpg",
+        "type": "phone",
+        "quanlity": 40
+      },
+      {
+        "id": 11,
+        "name": "Ipad Mini 7.9 inch Wifi 64GB(2019)",
+        "description": "Mua kèm Office 365 Personal giảm 30$",
+        "old_price": 500,
+        "price": 500,
+        "img": "https://cdn.tgdd.vn/Products/Images/522/202706/ipad-mini-79-inch-wifi-2019-gold-400x400.jpg",
+        "type": "tablet",
+        "quanlity": 66
+      },
+      {
+        "id": 12,
+        "name": "Samsung Galaxy Tab  A8 8\" T295",
+        "description": "Mua kèm Office 365 Personal giảm 30$",
+        "old_price": 200,
+        "price": 160,
+        "img": "https://cdn.tgdd.vn/Products/Images/522/205751/samsung-galaxy-tab-a8-t295-2019-silver-400x400.jpg",
+        "type": "tablet",
+        "quanlity": 36
+      },
+      {
+        "id": 13,
+        "name": "Ipad 10.2 inch Wifi 32GB(2019)",
+        "description": "Mua kèm Office 365 Personal giảm 30$",
+        "old_price": 500,
+        "price": 450,
+        "img": "https://cdn.tgdd.vn/Products/Images/522/213096/ipad-10-2-inch-wifi-32gb-2019-gold-400x400.jpg",
+        "type": "tablet",
+        "quanlity": 42
+      },
+      {
+        "id": 14,
+        "name": "Lenovo Tab E10",
+        "description": "",
+        "old_price": 200,
+        "price": 150,
+        "img": "https://cdn.tgdd.vn/Products/Images/522/200691/lenovo-tab-e10-tb-x104l-den-1-400x400.jpg",
+        "type": "tablet",
+        "quanlity": 10
+      },
+      {
+        "id": 15,
+        "name": "Huawei MediaPad M5 Lite",
+        "description": "",
+        "old_price": 320,
+        "price": 300,
+        "img": "https://cdn.tgdd.vn/Products/Images/522/215685/huawei-mediapad-m5-lite-gray-400x400.jpg",
+        "type": "tablet",
+        "quanlity": 9
+      },
+      {
+        "id": 16,
+        "name": "MacBook Air 2017 128GB",
+        "description": "Tặng túi chống sốc Laptop 13 WIWU",
+        "old_price": 1000,
+        "price": 1000,
+        "img": "https://cdn.tgdd.vn/Products/Images/44/106875/apple-macbook-air-mqd32sa-a-i5-5350u-600x600.jpg",
+        "type": "laptop",
+        "quanlity": 16
+      },
+      {
+        "id": 17,
+        "name": "MacBook Pro Touch 2019 128GB",
+        "description": "Tặng túi chống sốc Laptop 13 WIWU",
+        "old_price": 1600,
+        "price": 1500,
+        "img": "https://cdn.tgdd.vn/Products/Images/44/207683/apple-macbook-pro-touch-2019-i5-14ghz-8gb-128gb-m-2-2-207683-600x600.jpg",
+        "type": "laptop",
+        "quanlity": 81
+      },
+      {
+        "id": 18,
+        "name": "MacBook Pro Touch 2019 256GB",
+        "description": "Tặng túi chống sốc Laptop 13 WIWU",
+        "old_price": 1800,
+        "price": 1700,
+        "img": "https://cdn.tgdd.vn/Products/Images/44/213870/apple-macbook-pro-touch-2019-i5-14ghz-8gb-256gb-m-applemacbookprotouch2019-600x600.jpg",
+        "type": "laptop",
+        "quanlity": 64
+      },
+      {
+        "id": 19,
+        "name": "MacBook Air 2019 1.6GHz 128GB",
+        "description": "Tặng túi chống sốc Laptop 13 WIWU",
+        "old_price": 1400,
+        "price": 1400,
+        "img": "https://cdn.tgdd.vn/Products/Images/44/207682/apple-macbook-air-2019-i5-16ghz-8gb-128gb-mvfm2sa-13-32-600x600.jpg",
+        "type": "laptop",
+        "quanlity": 67
+      },
+      {
+        "id": 20,
+        "name": "MacBook Pro Touch 2020 256GB",
+        "description": "Tặng túi chống sốc Laptop 13 WIWU",
+        "old_price": 2600,
+        "price": 2500,
+        "img": "https://cdn.tgdd.vn/Products/Images/44/213021/apple-macbook-pro-touch-2019-15-thumb-600x600.jpg",
+        "type": "laptop",
+        "quanlity": 14
+      },
+      {
+        "id": 21,
+        "name": "Pin sạc dự phòng 15.000 mAh",
+        "description": "",
+        "old_price": 40,
+        "price": 30,
+        "img": "https://cdn.tgdd.vn/Products/Images/57/156075/pin-sac-du-phong-15000mah-xmobile-la-y615n-anh-dai-dien-600x600.jpg",
+        "type": "phu-kien",
+        "quanlity": 20
+      },
+      {
+        "id": 22,
+        "name": "Pin sạc dự phòng 10.000 mAh",
+        "description": "",
+        "old_price": 30,
+        "price": 25,
+        "img": "https://cdn.tgdd.vn/Products/Images/57/217431/sac-du-phong-10000mah-type-c-xmobile-pj-jp190st-1-600x600.jpg",
+        "type": "phu-kien",
+        "quanlity": 14
+      },
+      {
+        "id": 23,
+        "name": "Pin sạc dự phòng Polymer 10.000 mAh",
+        "description": "",
+        "old_price": 30,
+        "price": 25,
+        "img": "https://cdn.tgdd.vn/Products/Images/57/214690/sac-du-phong-10000mah-type-c-qc30-mbest-ds506-wb-ava-1-600x600.jpg",
+        "type": "phu-kien",
+        "quanlity": 10
+      },
+      {
+        "id": 24,
+        "name": "Pin sạc dự phòng 19.000 mAh",
+        "description": "",
+        "old_price": 40,
+        "price": 35,
+        "img": "https://cdn.tgdd.vn/Products/Images/57/145715/sac-dtdd-pin-sac-du-phong-19000mah-xmobile-gram-6s-trang-600x600.jpg",
+        "type": "phu-kien",
+        "quanlity": 6
+      },
+      {
+        "id": 25,
+        "name": "Pin sạc dự phòng không dây 10.000 mAh",
+        "description": "",
+        "old_price": 30,
+        "price": 25,
+        "img": "https://cdn.tgdd.vn/Products/Images/57/209142/sac-du-phong-10000mah-wireless-xmobile-jp151-den-1-600x600.jpg",
+        "type": "phu-kien",
+        "quanlity": 3
+      },
+      {
+        "id": 26,
+        "name": "Apple Watch S3 GPS 42mm",
+        "description": "",
+        "old_price": 300,
+        "price": 280,
+        "img": "https://cdn.tgdd.vn/Products/Images/7077/194536/apple-watch-s3-gps-42mm-vien-nhom-day-cao-su-den-nt-400x400.jpg",
+        "type": "watch",
+        "quanlity": 5
+      },
+      {
+        "id": 27,
+        "name": "Mi Band 4",
+        "description": "",
+        "old_price": 40,
+        "price": 30,
+        "img": "https://cdn.tgdd.vn/Products/Images/7077/202980/mi-band-4-6-400x400.jpg",
+        "type": "watch",
+        "quanlity": 3
+      },
+      {
+        "id": 28,
+        "name": "Samsung Galaxy Watch Active",
+        "description": "",
+        "old_price": 250,
+        "price": 250,
+        "img": "https://cdn.tgdd.vn/Products/Images/7077/200965/samsung-galaxy-watch-active-r500-24-400x400.jpg",
+        "type": "watch",
+        "quanlity": 16
+      },
+      {
+        "id": 29,
+        "name": "Fitbit Versa Lite",
+        "description": "",
+        "old_price": 70,
+        "price": 60,
+        "img": "https://cdn.tgdd.vn/Products/Images/7077/200877/fitbit-versa-lite-8-400x400.jpg",
+        "type": "watch",
+        "quanlity": 36
+      },
+      {
+        "id": 30,
+        "name": "Huawei Watch GT2 46mm",
+        "description": "",
+        "old_price": 350,
+        "price": 300,
+        "img": "https://cdn.tgdd.vn/Products/Images/7077/212194/huawei-watch-gt2-46mm-day-kim-loai-3-400x400.jpg",
+        "type": "watch",
+        "quanlity": 20
+      },
+      {
+        "id": 31,
+        "name": "MacBook Pro Touch 2020 256GB",
+        "description": "Tặng túi chống sốc Laptop 13 WIWU",
+        "old_price": 2600,
+        "price": 2500,
+        "img": "https://cdn.tgdd.vn/Products/Images/44/213021/apple-macbook-pro-touch-2019-15-thumb-600x600.jpg",
+        "type": "laptop",
+        "quanlity": 2
+      },
+      {
+        "id": 32,
+        "name": "MacBook Pro Touch 2020 256GB",
+        "description": "Tặng túi chống sốc Laptop 13 WIWU",
+        "old_price": 2600,
+        "price": 2500,
+        "img": "https://cdn.tgdd.vn/Products/Images/44/213021/apple-macbook-pro-touch-2019-15-thumb-600x600.jpg",
+        "type": "laptop",
+        "quanlity": 14
+      },
+      {
+        "id": 33,
+        "name": "MacBook Pro Touch 2020 256GB",
+        "description": "Tặng túi chống sốc Laptop 13 WIWU",
+        "old_price": 2600,
+        "price": 2500,
+        "img": "https://cdn.tgdd.vn/Products/Images/44/213021/apple-macbook-pro-touch-2019-15-thumb-600x600.jpg",
+        "type": "laptop",
+        "quanlity": 14
+      },
+      {
+        "id": 34,
+        "name": "MacBook Pro Touch 2020 256GB",
+        "description": "Tặng túi chống sốc Laptop 13 WIWU",
+        "old_price": 2600,
+        "price": 2500,
+        "img": "https://cdn.tgdd.vn/Products/Images/44/213021/apple-macbook-pro-touch-2019-15-thumb-600x600.jpg",
+        "type": "laptop",
+        "quanlity": 14
+      },
+      {
+        "id": 35,
+        "name": "MacBook Pro Touch 2020 256GB",
+        "description": "Tặng túi chống sốc Laptop 13 WIWU",
+        "old_price": 2600,
+        "price": 2500,
+        "img": "https://cdn.tgdd.vn/Products/Images/44/213021/apple-macbook-pro-touch-2019-15-thumb-600x600.jpg",
+        "type": "laptop",
+        "quanlity": 14
+      },
+      {
+        "id": 36,
+        "name": "MacBook Pro Touch 2020 256GB",
+        "description": "Tặng túi chống sốc Laptop 13 WIWU",
+        "old_price": 2600,
+        "price": 2500,
+        "img": "https://cdn.tgdd.vn/Products/Images/44/213021/apple-macbook-pro-touch-2019-15-thumb-600x600.jpg",
+        "type": "laptop",
+        "quanlity": 14
+      }
+    ]
+  }
